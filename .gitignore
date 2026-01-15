@@ -1,0 +1,134 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Packaging / distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Installer / pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Test / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+.hypothesis/
+
+# Jupyter
+.ipynb_checkpoints/
+jupyter_runtime/
+
+# VS Code / IDE
+.vscode/
+*.code-workspace
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Sensitive files / config
+.env.local
+.env.*.local
+credentials/
+secrets.yml
+
+
+# Optional: ignore workbook files (uncomment if you do not want to track .csv/.xlsx)
+# *.csv
+# *.xlsx
+```// filepath: c:\Users\mayan\Desktop\PYTHON\EDA\.gitignore
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Packaging / distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Installer / pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Test / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+.hypothesis/
+
+# Jupyter
+.ipynb_checkpoints/
+jupyter_runtime/
+
+# VS Code / IDE
+.vscode/
+*.code-workspace
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Sensitive files / config
+.env.local
+.env.*.local
+credentials/
+secrets.yml
+
+# Data files (place large datasets in a data/ directory and keep them ignored)
+data/
+*.sqlite
+*.db
+Zomatodataset/
+
+# Optional: ignore workbook files (uncomment if you do not want to track .csv/.xlsx)
+*.csv
+*.xlsx
